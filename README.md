@@ -34,6 +34,8 @@ Mediante el diagrama se procede a armar                                      :
 
 # 5. VIDEO
 
+Se adjunta el video donde se realizó el armado y puesto en marcha del circuito detalladamente mediante el diagrama asi como la explicacion de los elementos que la componen
+
 # 6. CONCLUSIONES
 
 # 7. RECOMENDACIONES
