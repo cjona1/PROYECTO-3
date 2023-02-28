@@ -24,16 +24,18 @@ Analizar y comprender detalladamente la construccion y funcionamineto de cada co
 
 OBJETIVOS ESPECÍFICOS
 
--Armar el circuito en el protoboard
 
--Estudiar mas de cerca las caracteristicas, funcionamiento y cada uno de los pines del circuito integrado LM386, para una mejor comprensión de lo que ocurre internamente en el mismo.
+-	Armar el circuito en el protoboard
 
--Conocer la forma en la que el circuito integrado LM386 puede amplificar señales de audio.
+-	Estudiar mas de cerca las caracteristicas, funcionamiento y cada uno de los pines del circuito integrado LM386, para una mejor comprensión de lo que ocurre internamente en el mismo.
 
--Comprender mas a profundidad el funcionamiento del cable plug y del parlante.
+-	Conocer la forma en la que el circuito integrado LM386 puede amplificar señales de audio.
+
+-	Comprender mas a profundidad el funcionamiento del cable plug y del parlante.
 
 # 2. MARCO TEORICO
 
+![Mapa Conceptual Doodle A mano Multicolor](https://user-images.githubusercontent.com/116817673/221856718-93af12c6-d3e5-40a9-818c-74d766e4e96a.png)
 
 # 3. EXPLICACION DEL PROCEDIMIENTO
 
@@ -46,13 +48,15 @@ Un altavoz es un transductor electroacústico, es decir, convierte energía elé
 Un potenciómetro es un dispositivo electrónico. Es uno de los dos usos que posee la resistencia o resistor variable mecánica. El usuario al manipularlo, obtiene entre el terminal central y uno de los extremos una fracción de la diferencia de potencial total, se comporta como un divisor de tensión o divisor de voltaje.               
 
 El LM386 es un circuito integrado que consiste en un amplificador que requiere bajo voltaje, tanto en la entrada de audio como en la alimentación. Es frecuentemente usado en amplificadores para computadoras, radios, amplificadores de guitarra, etc.
-                                      
+
+El conector de audio analógico (plug en inglés para señalar al conector macho, o jack para señalar al conector hembra de este tipo)​ de señales analógicas se utiliza para conectar micrófonos, auriculares y otros sistemas de señal analógica a dispositivos electrónicos, aunque sobre todo audio.
 Mediante el diagrama se procede a armar                                      :
 
 ![image](https://user-images.githubusercontent.com/116817673/221852168-219e7838-ee49-4b12-92cc-db34a1f56561.png)
 
 # 4. RESULTADOS
 
+El presente circuito funciona de la siguente manera, tiene una alimentacion que va conectada al potenciometro  y de ahi a las entradas de nuestro integrado que hace que tengamos salida de audio y entrada  para poder tener nuestro mini reproductor de audio.
 # 5. VIDEO
 
 Se adjunta el video donde se realizó el armado y puesto en marcha del circuito detalladamente mediante el diagrama asi como la explicacion de los elementos que la componen
@@ -60,17 +64,17 @@ https://youtu.be/zNYuY0-Fp40
 
 # 6. CONCLUSIONES
 
--Aprendimos las características y la funcion que tiene cada pin en el amplificador LM3986.
+-	Aprendimos las características y la funcion que tiene cada pin en el amplificador LM386.
 
--Se debe conectar de forma correcta el cable plug que funciona como entrada de audio en el circuito, ya que la forma en la que este conectado este cable afectara de forma significativa la calidad y la potencia con la que sale la señal de audio.
+-	Se debe conectar de forma correcta el cable plug que funciona como entrada de audio en el circuito, ya que la forma en la que este conectado este cable afectara de forma significativa la calidad y la potencia con la que sale la señal de audio.
 
--Con la realización de este proyecto conocimos y aprendimos a usar 3 nuevos componentes: el parlante o altavoz, el amplificador LM386 y el cable plug, los cuales cuales fueron los elementos mas importantes del circuito para que éste pueda funcionar.
+-	Con la realización de este proyecto conocimos y aprendimos a usar 3 nuevos componentes: el parlante o altavoz, el amplificador LM386 y el cable plug, los cuales cuales fueron los elementos mas importantes del circuito para que éste pueda funcionar.
 
--Se pudo ver que cuando los cables no están bien conectados al altavoz, al momento de hacer funcionar el circuito el audio de salida tiene interferencias y la calidad de sonido no es muy buena, ya que el altavoz emite como un zumbidos desagradables, es por ello que se debe conectar bien los cables al altavoz.
+-	Se pudo ver que cuando los cables no están bien conectados al altavoz, al momento de hacer funcionar el circuito el audio de salida tiene interferencias y la calidad de sonido no es muy buena, ya que el altavoz emite como un zumbidos desagradables, es por ello que se debe conectar bien los cables al altavoz.
 
--Hay que considerar la polaridad de los componentes electrónicos a la hora de armar el circuito, ya que si no lo hacemos el circuito no va a funcionar de forma correcta.
+-	Hay que considerar la polaridad de los componentes electrónicos a la hora de armar el circuito, ya que si no lo hacemos el circuito no va a funcionar de forma correcta.
 
--Se pudo apreciar que realizar nosotros mismos este miniamplificador de audio casero fue mas productivo y barato que comprar uno comercial.
+-	Se pudo apreciar que realizar nosotros mismos este miniamplificador de audio casero fue mas productivo y barato que comprar uno comercial.
 
 - El rendimiento de un parlante se calcula como la potencia eléctrica, lo cual implica que los amplificadores se pueden comparar de acuerdo a su resistencia de carga y a su tensión de fuente.
 
