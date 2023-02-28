@@ -50,6 +50,7 @@ Un potenciómetro es un dispositivo electrónico. Es uno de los dos usos que pos
 El LM386 es un circuito integrado que consiste en un amplificador que requiere bajo voltaje, tanto en la entrada de audio como en la alimentación. Es frecuentemente usado en amplificadores para computadoras, radios, amplificadores de guitarra, etc.
 
 El conector de audio analógico (plug en inglés para señalar al conector macho, o jack para señalar al conector hembra de este tipo)​ de señales analógicas se utiliza para conectar micrófonos, auriculares y otros sistemas de señal analógica a dispositivos electrónicos, aunque sobre todo audio.
+
 Mediante el diagrama se procede a armar                                      :
 
 ![image](https://user-images.githubusercontent.com/116817673/221852168-219e7838-ee49-4b12-92cc-db34a1f56561.png)
@@ -57,6 +58,7 @@ Mediante el diagrama se procede a armar                                      :
 # 4. RESULTADOS
 
 El presente circuito funciona de la siguente manera, tiene una alimentacion que va conectada al potenciometro  y de ahi a las entradas de nuestro integrado que hace que tengamos salida de audio y entrada  para poder tener nuestro mini reproductor de audio.
+
 # 5. VIDEO
 
 Se adjunta el video donde se realizó el armado y puesto en marcha del circuito detalladamente mediante el diagrama asi como la explicacion de los elementos que la componen
