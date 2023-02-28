@@ -41,7 +41,7 @@ OBJETIVOS ESPECÍFICOS
                                       
 Un capacitor o también conocido como condensador es un dispositivo capaz de almacenar  energía a través de campos eléctricos (uno positivo y uno negativo). Este se clasifica dentro de los componentes pasivos ya que no tiene la capacidad de amplificar o cortar el flujo eléctrico.        
 
-Un altavoz es un transductor electroacústico, es decir, convierte energía eléctrica en energía acústica. Esta conversión tiene lugar en dos etapas: la señal eléctrica produce el movimiento del diafragma del altavoz y este movimiento produce a su vez ondas de presión (sonido) en e
+Un altavoz es un transductor electroacústico, es decir, convierte energía eléctrica en energía acústica. Esta conversión tiene lugar en dos etapas: la señal eléctrica produce el movimiento del diafragma del altavoz y este movimiento produce a su vez ondas de presión (sonido) en el aire que rodea al altavoz.
                  
 Un potenciómetro es un dispositivo electrónico. Es uno de los dos usos que posee la resistencia o resistor variable mecánica. El usuario al manipularlo, obtiene entre el terminal central y uno de los extremos una fracción de la diferencia de potencial total, se comporta como un divisor de tensión o divisor de voltaje.               
 
